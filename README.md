@@ -1,4 +1,4 @@
-# pokedex.context.api
+# rick.and.morty.api
 this is a project that consumes the Rick and Morty API
 
 # Getting Started with Create React App
